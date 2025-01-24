@@ -1,0 +1,33 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8389 Starting - 7/3/2024, 12:24:20 AM
+================================================================
+[00:24:54][RunkZein] created admins file
+[00:25:04][RunkZein] Changing global/fxserver settings via setup stepper.
+[00:29:35][MONITOR] Restarting server (resource "assets_peds" failed to start within the 120s time limit).
+[00:29:45][RunkZein] Changing monitor settings.
+[01:05:04][RunkZein] executed "RESTART SERVER"
+[07:43:14][RunkZein] executed "RESTART SERVER"
+[08:20:47][RunkZein] executed "stop "ps-adminmenu""
+[08:20:53][RunkZein] executed "ensure "ps-adminmenu""
+[08:20:56][RunkZein] executed "ensure "qb-platescan""
+[08:31:58][RunkZein] executed "refresh"
+[08:32:01][RunkZein] executed "ensure "bp_admin""
+[08:32:39][RunkZein] executed "stop "ps-adminmenu""
+[08:33:09][RunkZein] executed "refresh"
+[08:33:14][RunkZein] executed "ensure "bp_admin""
+[08:36:08][RunkZein] executed "refresh"
+[08:37:45][RunkZein] executed "refresh"
+[08:37:50][RunkZein] executed "ensure "chat""
+[08:37:52][RunkZein] executed "ensure "nc-chat""
+[08:38:00][RunkZein] executed "stop "origen-chat""
+[08:40:19][RunkZein] executed "RESTART SERVER"
+[08:59:28][RunkZein] executed "RESTART SERVER"
+[09:30:21][RunkZein] executed "refresh"
+[09:30:26][RunkZein] executed "ensure "fmdev-clothing""
+[09:31:23][RunkZein] executed "ensure "fmdev-outfits""
+[09:31:26][RunkZein] executed "ensure "ghost-lib""
+[09:31:28][RunkZein] executed "ensure "np-polyzone""
+[09:31:31][RunkZein] executed "ensure "textUi""
+[09:31:33][RunkZein] executed "ensure "qb-spawn""
+[09:32:35][RunkZein] executed "ensure "fmdev-clothing""
